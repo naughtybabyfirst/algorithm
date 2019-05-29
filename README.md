@@ -1,6 +1,6 @@
 # algorithm
 
-[Sorted](https://github.com/naughtybabyfirst/algorithm/blob/master/Sorted.py)
+[排序算法](https://github.com/naughtybabyfirst/algorithm/blob/master/Sorted.py)
 
 文本相似度计算：
 
